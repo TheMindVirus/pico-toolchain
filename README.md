@@ -30,3 +30,6 @@ Featured Projects:
  - https://www.adafruit.com/product/4984
  - https://github.com/Wren6991/PicoDVI
  - https://github.com/bitscope
+
+Past Work:
+ - https://github.com/TheMindVirus/pico-win32-cross
