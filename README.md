@@ -31,5 +31,5 @@ Additionally wire 5 to VBUS (+5V USB) to toggle hotplug on freeze and also wire 
  - https://github.com/Wren6991/PicoDVI
  - https://github.com/bitscope
 
-# Past Work:
+# Past Work
  - https://github.com/TheMindVirus/pico-win32-cross
