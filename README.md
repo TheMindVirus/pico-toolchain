@@ -9,7 +9,7 @@ HDMI Clock line with negative differential voltage at 1V above GND
 # Adafruit DVI Breakout
 ![pinout](/pinout.png)
 
-Additionally wire 5 to VBUS (+5V USB) along with the I2C lines to get EDID data
+Additionally wire 5 to VBUS (+5V USB) to toggle hotplug on freeze and also wire the I2C lines to get EDID data
 
 # Xbox One EDID on I2C
 ![EDID](/EDID.png)
