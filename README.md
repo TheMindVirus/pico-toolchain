@@ -17,19 +17,19 @@ Additionally wire 5 to VBUS (+5V USB) to toggle hotplug on freeze and also wire 
 # OBS Studio Capture Test
 ![test](/test.png)
 
-Encoder Cards:
+# Encoder Cards
  - NVidia GTX1060 with HP2210i FullHD Monitor
  - BlackMagicDesign Decklink/IntensityPro HD
  - Xbox One Original Rear HDMI Capture Input
  - Unbranded 3-way HDMI Splitter + Cables (x3)
  - Raspberry Pi Pico RP2040 with Adafruit DVI
 
-Featured Projects:
+# Featured Projects
  - https://github.com/obsproject/obs-studio
  - https://github.com/raspberrypi/pico-sdk
  - https://www.adafruit.com/product/4984
  - https://github.com/Wren6991/PicoDVI
  - https://github.com/bitscope
 
-Past Work:
+# Past Work:
  - https://github.com/TheMindVirus/pico-win32-cross
