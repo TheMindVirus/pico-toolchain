@@ -1,0 +1,323 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+c++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+c++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+c++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+c++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+c++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+c++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/cotaa/Documents/Pico/build/elf2uf2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Toolchains/make/bin/make.exe" "cmTC_a30c5/fast"
+make.exe[3]: Entering directory `C:/Users/cotaa/Documents/Pico/build/elf2uf2/CMakeFiles/CMakeTmp'
+C:/Toolchains/make/bin/make.exe -f CMakeFiles/cmTC_a30c5.dir/build.make CMakeFiles/cmTC_a30c5.dir/build
+make.exe[4]: Entering directory `C:/Users/cotaa/Documents/Pico/build/elf2uf2/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a30c5.dir/testCCompiler.c.obj
+"C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe"    -o CMakeFiles/cmTC_a30c5.dir/testCCompiler.c.obj   -c C:/Users/cotaa/Documents/Pico/build/elf2uf2/CMakeFiles/CMakeTmp/testCCompiler.c
+make.exe[4]: *** [CMakeFiles/cmTC_a30c5.dir/testCCompiler.c.obj] Error 1
+make.exe[4]: Leaving directory `C:/Users/cotaa/Documents/Pico/build/elf2uf2/CMakeFiles/CMakeTmp'
+make.exe[3]: *** [cmTC_a30c5/fast] Error 2
+make.exe[3]: Leaving directory `C:/Users/cotaa/Documents/Pico/build/elf2uf2/CMakeFiles/CMakeTmp'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+The system cannot find the file specified
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+The system cannot find the file specified
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/c++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+The system cannot find the file specified
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
