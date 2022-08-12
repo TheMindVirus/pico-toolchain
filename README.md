@@ -11,7 +11,7 @@ HDMI Clock line with negative differential voltage at 1V above GND
 
 Additionally wire 5 to VBUS (+5V USB) along with the I2C lines to get EDID data
 
-#Xbox One EDID on I2C
+# Xbox One EDID on I2C
 ![EDID](/EDID.png)
 
 # OBS Studio Capture Test
@@ -23,6 +23,7 @@ Encoder Cards:
  - Xbox One Original Rear HDMI Capture Input
  - Unbranded 3-way HDMI Splitter + Cables (x3)
  - Raspberry Pi Pico RP2040 with Adafruit DVI
+
 Featured Projects:
  - https://github.com/obsproject/obs-studio
  - https://github.com/raspberrypi/pico-sdk
