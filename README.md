@@ -29,3 +29,4 @@ Featured Projects:
  - https://github.com/raspberrypi/pico-sdk
  - https://www.adafruit.com/product/4984
  - https://github.com/Wren6991/PicoDVI
+ - https://github.com/bitscope
